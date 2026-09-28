@@ -1,0 +1,122 @@
+CMakeFiles/daedalus.dir/SysCTR/Utility/MemoryCTR.cpp.obj: \
+ K:/fresh/pn643d/daed/Source/SysCTR/Utility/MemoryCTR.cpp \
+ C:/dkp/libctru/include/3ds.h C:/dkp/libctru/include/3ds/types.h \
+ C:/dkp/devkitARM/lib/gcc/arm-none-eabi/16.1.0/include/stdint.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/stdint.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/_default_types.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/features.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/_newlib_version.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_intsup.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_stdint.h \
+ C:/dkp/devkitARM/lib/gcc/arm-none-eabi/16.1.0/include/stdbool.h \
+ C:/dkp/devkitARM/lib/gcc/arm-none-eabi/16.1.0/include/stddef.h \
+ C:/dkp/libctru/include/3ds/result.h C:/dkp/libctru/include/3ds/ipc.h \
+ C:/dkp/libctru/include/3ds/svc.h C:/dkp/libctru/include/3ds/exheader.h \
+ C:/dkp/libctru/include/3ds/srv.h C:/dkp/libctru/include/3ds/errf.h \
+ C:/dkp/libctru/include/3ds/os.h \
+ C:/dkp/libctru/include/3ds/synchronization.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/lock.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/_ansi.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/newlib.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/config.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/ieeefp.h \
+ C:/dkp/libctru/include/3ds/thread.h C:/dkp/libctru/include/3ds/gfx.h \
+ C:/dkp/libctru/include/3ds/services/gspgpu.h \
+ C:/dkp/libctru/include/3ds/console.h C:/dkp/libctru/include/3ds/env.h \
+ C:/dkp/libctru/include/3ds/util/decompress.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/types.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/cdefs.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/_types.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_types.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/endian.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/_endian.h \
+ C:/dkp/libctru/include/sys/select.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/select.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_sigset.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_timeval.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/timespec.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_timespec.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_pthreadtypes.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/sched.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/types.h \
+ C:/dkp/libctru/include/3ds/util/utf.h \
+ C:/dkp/libctru/include/3ds/allocator/linear.h \
+ C:/dkp/libctru/include/3ds/allocator/mappable.h \
+ C:/dkp/libctru/include/3ds/allocator/vram.h \
+ C:/dkp/libctru/include/3ds/services/ac.h \
+ C:/dkp/libctru/include/3ds/services/act.h \
+ C:/dkp/libctru/include/3ds/services/frd.h \
+ C:/dkp/libctru/include/3ds/mii.h \
+ C:/dkp/libctru/include/3ds/services/am.h \
+ C:/dkp/libctru/include/3ds/services/fs.h \
+ C:/dkp/libctru/include/3ds/services/ampxi.h \
+ C:/dkp/libctru/include/3ds/services/apt.h \
+ C:/dkp/libctru/include/3ds/services/boss.h \
+ C:/dkp/libctru/include/3ds/services/cam.h \
+ C:/dkp/libctru/include/3ds/services/y2r.h \
+ C:/dkp/libctru/include/3ds/services/cfgnor.h \
+ C:/dkp/libctru/include/3ds/services/cfgu.h \
+ C:/dkp/libctru/include/3ds/services/csnd.h \
+ C:/dkp/libctru/include/3ds/services/dsp.h \
+ C:/dkp/libctru/include/3ds/services/fspxi.h \
+ C:/dkp/libctru/include/3ds/services/fsreg.h \
+ C:/dkp/libctru/include/3ds/services/gsplcd.h \
+ C:/dkp/libctru/include/3ds/services/hid.h \
+ C:/dkp/libctru/include/3ds/services/irrst.h \
+ C:/dkp/libctru/include/3ds/services/sslc.h \
+ C:/dkp/libctru/include/3ds/services/httpc.h \
+ C:/dkp/libctru/include/3ds/services/uds.h \
+ C:/dkp/libctru/include/3ds/services/ndm.h \
+ C:/dkp/libctru/include/3ds/services/nim.h \
+ C:/dkp/libctru/include/3ds/services/nwmext.h \
+ C:/dkp/libctru/include/3ds/services/ir.h \
+ C:/dkp/libctru/include/3ds/services/ns.h \
+ C:/dkp/libctru/include/3ds/services/pmapp.h \
+ C:/dkp/libctru/include/3ds/services/pmdbg.h \
+ C:/dkp/libctru/include/3ds/services/ps.h \
+ C:/dkp/libctru/include/3ds/services/ptmu.h \
+ C:/dkp/libctru/include/3ds/services/ptmsysm.h \
+ C:/dkp/libctru/include/3ds/services/ptmgets.h \
+ C:/dkp/libctru/include/3ds/services/ptmsets.h \
+ C:/dkp/libctru/include/3ds/services/ptmplays.h \
+ C:/dkp/libctru/include/3ds/services/pxidev.h \
+ C:/dkp/libctru/include/3ds/services/pxipm.h \
+ C:/dkp/libctru/include/3ds/services/soc.h \
+ C:/dkp/libctru/include/netinet/in.h C:/dkp/libctru/include/sys/socket.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/time.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/time.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/_ansi.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/reent.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/time.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_locale.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/signal.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/signal.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/_time.h \
+ C:/dkp/libctru/include/3ds/services/mic.h \
+ C:/dkp/libctru/include/3ds/services/mvd.h \
+ C:/dkp/libctru/include/3ds/services/nfc.h \
+ C:/dkp/libctru/include/3ds/services/news.h \
+ C:/dkp/libctru/include/3ds/services/qtm.h \
+ C:/dkp/libctru/include/3ds/services/qtmc.h \
+ C:/dkp/libctru/include/3ds/services/srvpm.h \
+ C:/dkp/libctru/include/3ds/services/loader.h \
+ C:/dkp/libctru/include/3ds/services/mcuhwc.h \
+ C:/dkp/libctru/include/3ds/services/cdcchk.h \
+ C:/dkp/libctru/include/3ds/gpu/gx.h C:/dkp/libctru/include/3ds/gpu/gpu.h \
+ C:/dkp/libctru/include/3ds/gpu/registers.h \
+ C:/dkp/libctru/include/3ds/gpu/enums.h \
+ C:/dkp/libctru/include/3ds/gpu/shbin.h \
+ C:/dkp/libctru/include/3ds/gpu/shaderProgram.h \
+ C:/dkp/libctru/include/3ds/ndsp/ndsp.h \
+ C:/dkp/libctru/include/3ds/ndsp/channel.h \
+ C:/dkp/libctru/include/3ds/applets/swkbd.h \
+ C:/dkp/libctru/include/3ds/applets/error.h \
+ C:/dkp/libctru/include/3ds/applets/miiselector.h \
+ C:/dkp/libctru/include/3ds/archive.h C:/dkp/libctru/include/3ds/romfs.h \
+ C:/dkp/libctru/include/3ds/font.h \
+ C:/dkp/libctru/include/3ds/gdbhio_dev.h \
+ C:/dkp/libctru/include/3ds/3dslink.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/stdio.h \
+ C:/dkp/devkitARM/lib/gcc/arm-none-eabi/16.1.0/include/stdarg.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/stdio.h \
+ K:/fresh/pn643d/daed/Source/SysCTR/Utility/MemoryCTR.h

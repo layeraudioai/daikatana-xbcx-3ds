@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+f3a30ad3658e9cd8400ed02b772c9e78 CMakeFiles/N3DS
+aab586afbef7526a934ccc2c99599d8e JohnRomerosDaikatanaEuropeEnFrDe.3dsx
+b3f836548e7382681641443b428fe544 JohnRomerosDaikatanaEuropeEnFrDe.cia

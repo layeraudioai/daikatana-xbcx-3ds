@@ -1,0 +1,5 @@
+/k/fresh/pn643d/daed/JohnRomerosDaikatanaEuropeEnFrDe/CMakeFiles/daedalus.dir
+/k/fresh/pn643d/daed/JohnRomerosDaikatanaEuropeEnFrDe/CMakeFiles/JohnRomerosDaikatanaEuropeEnFrDe.elf.dir
+/k/fresh/pn643d/daed/JohnRomerosDaikatanaEuropeEnFrDe/CMakeFiles/N3DS.dir
+/k/fresh/pn643d/daed/JohnRomerosDaikatanaEuropeEnFrDe/CMakeFiles/edit_cache.dir
+/k/fresh/pn643d/daed/JohnRomerosDaikatanaEuropeEnFrDe/CMakeFiles/rebuild_cache.dir

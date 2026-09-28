@@ -1,0 +1,34 @@
+CMakeFiles/daedalus.dir/HLEGraphics/DLDebug.cpp.obj: \
+ K:/fresh/pn643d/daed/Source/HLEGraphics/DLDebug.cpp \
+ K:/fresh/pn643d/daed/Source/stdafx.h \
+ K:/fresh/pn643d/daed/Source/BuildOptions.h \
+ K:/fresh/pn643d/daed/Source/SysCTR/Include/Platform.h \
+ K:/fresh/pn643d/daed/Source/Config/Dev/BuildConfig.h \
+ K:/fresh/pn643d/daed/Source/Utility/DaedalusTypes.h \
+ K:/fresh/pn643d/daed/Source/Debug/DaedalusAssert.h \
+ K:/fresh/pn643d/daed/Source/Utility/Macros.h \
+ C:/dkp/devkitARM/lib/gcc/arm-none-eabi/16.1.0/include/stdint.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/stdint.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/_default_types.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/features.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/_newlib_version.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_intsup.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_stdint.h \
+ K:/fresh/pn643d/daed/Source/HLEGraphics/DLDebug.h \
+ K:/fresh/pn643d/daed/Source/OSHLE/ultra_sptask.h \
+ K:/fresh/pn643d/daed/Source/Utility/DaedalusTypes.h \
+ K:/fresh/pn643d/daed/Source/Utility/DataSink.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/stdio.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/_ansi.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/newlib.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/config.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/ieeefp.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/cdefs.h \
+ C:/dkp/devkitARM/lib/gcc/arm-none-eabi/16.1.0/include/stddef.h \
+ C:/dkp/devkitARM/lib/gcc/arm-none-eabi/16.1.0/include/stdarg.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/reent.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/_ansi.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/_types.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/machine/_types.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/lock.h \
+ C:/dkp/devkitARM/arm-none-eabi/include/sys/stdio.h
