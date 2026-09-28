@@ -1,0 +1,1 @@
+put the euro rom of john romero's daikatana for n64 in the daikatana-xbcx-3ds\romfs\Roms as JohnRomerosDaikatanaEuropeEnFrDe.z64 and type make from within daikatana-xbcx-3ds after installing devkitpro with 3ds-dev dkp-libs picagl and imgui-picagl
